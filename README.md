@@ -34,7 +34,7 @@ ___
 ## Brand Table
 |id|name|description|
 |---|---|---|
-|1|Snack foods|Snack foods is good|
+|1|Cairo Coffee Co|good Cairo Coffee Co|
 
 
 
